@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DomainFactory is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://df.eu/
+DomainFactory is a German provider of domain registration, web hosting, and related online services. It offers a range of products including domain transfer, shared and managed web hosting, WordPress hosting, VPS, SSL certificates, and website builder tools. Customers can manage their services via a client portal and benefit from support, service level agreements, and integration with Microsoft 365. The company emphasizes easy domain migration and a comprehensive hosting platform for businesses and individuals.
+
+**Areas:** Company · Hosting · Domains · WebHosting · SSL
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://df.eu/)
+- [Documentation](https://www.df.eu/de/)
+- [Pricing](https://www.df.eu/de/preislisten/)
+- [Support](https://www.df.eu/de/support/)
+- [Blog](https://www.df.eu/blog/)
+- [Security](https://df.eu/whitehat/policy)
+- [Status](https://status.df.eu/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/domainfactory/](https://apis.io/providers/domainfactory/).
